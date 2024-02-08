@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin:0;
+}
+#hero{
+    display: flex;
+    background-image: url("image.jpg");
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+}
+#hero h1{
+    color: black;
+}
+.image{
+    width: 275px;
+    height: 200px;
+}
